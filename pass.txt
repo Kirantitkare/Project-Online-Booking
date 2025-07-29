@@ -1,0 +1,12 @@
+Admin ID: admin
+Admin Pass:- admin
+
+User ID:- ksahibealam@gmail.com
+User Pass:- alam123
+
+
+User:
+http://localhost/Online%20Cab%20Rental%20System/
+
+ADmin: 
+http://localhost/Online%20Cab%20Rental%20System/admin/
